@@ -44,8 +44,8 @@ button {
   justify-content: space-between;
   align-items: center;
   background-color: var(--color2);
-  padding: 10px 30px;
-  border-radius: 60px;
+  padding: 5px 10px;
+  border-radius: 40px;
 }
 
 .header .title {
@@ -61,7 +61,7 @@ button {
 
 .content h1 span,
 .header span {
-  width: 30px;
+  width: 10px;
   height: 30px;
   border-radius: 25px;
   background-color: var(--color4);
